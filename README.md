@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>👋 你好，我是 zouwei</h1>
+  <h1>👋 你好</h1>
   <p>
-    <strong>独立开发者</strong> | Moraya Markdown AI Agent 作者
+    <strong>独立开发者</strong> | Moraya Markdown AI Agent 开发者
   </p>
   <p>
     🌐 <a href="https://onela.cn" target="_blank">个人网站</a> • 
