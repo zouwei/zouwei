@@ -26,6 +26,7 @@
 - 实时语音转写 + 说话人分离 + AI 会议总结
 - AI 图像生成（5 种模式 × 10 种风格）
 - 一键多平台发布（GitHub、自定义 API、RSS）
+- 内置10套现象级插件 + 扩展开放社区插件架构（邀请大家开发Moraya插件）
 - 完全离线可用，密钥存 OS Keychain，隐私安全拉满
 
 **立即体验** → [https://moraya.app](https://moraya.app)  
