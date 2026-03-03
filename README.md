@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 你好</h1>
+  <h1>👋 Hello Word</h1>
   <p>
     <strong>独立开发者</strong> | Moraya Markdown AI Agent 开发者
   </p>
