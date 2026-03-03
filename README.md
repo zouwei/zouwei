@@ -1,5 +1,3 @@
-<!-- 你可以直接复制整个代码块 -->
-
 <div align="center">
   <h1>👋 你好，我是 zouwei</h1>
   <p>
@@ -11,8 +9,6 @@
     <a href="https://github.com/zouwei/moraya" target="_blank">⭐ GitHub</a>
   </p>
 
-  <!-- 访客计数（可选） -->
-  <img src="https://komarev.com/ghpvc/?username=zouwei&label=访客数&color=0e75b6&style=flat" alt="访客数" />
 </div>
 
 ---
@@ -40,25 +36,11 @@
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zouwei/moraya&type=Date)
 
-
----
-
-### 🛠️ 技术栈
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" />
-</div>
-
 ---
 
 ### 📊 GitHub 数据一览
 
-![zouwei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zouwei&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zouwei&layout=compact&theme=radical&hide_border=true)
+<image-card alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zouwei&theme=tokyonight&hide_border=true" ></image-card>
 
 ---
 
