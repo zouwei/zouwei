@@ -38,12 +38,6 @@
 
 ---
 
-### 📊 GitHub 数据一览
-
-<image-card alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zouwei&theme=tokyonight&hide_border=true" ></image-card>
-
----
-
 ### 📬 联系我
 
 - 个人网站：https://onela.cn
