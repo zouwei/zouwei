@@ -5,8 +5,8 @@
   </p>
   <p>
     🌐 <a href="https://onela.cn" target="_blank">个人网站</a> • 
-    <a href="https://moraya.app" target="_blank">🎨 Moraya 官网</a> • 
-    <a href="https://github.com/zouwei/moraya" target="_blank">⭐ GitHub</a>
+    🎨 <a href="https://moraya.app" target="_blank">Moraya 官网</a> • 
+    ⭐ <a href="https://github.com/zouwei/moraya" target="_blank">GitHub</a>
   </p>
 
 </div>
