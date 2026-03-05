@@ -34,7 +34,7 @@ A locally-first WYSIWYG editor built with **Rust + Tauri v2 + Svelte 5**, design
 
 #### ⭐ Star Growth Trend (real-time)
 
-![Star History Chart](https://api.star-history.com/svg?repos=zouwei/moraya&type=Date&commit=${{ github.sha }})
+![Star History Chart](https://api.star-history.com/svg?repos=zouwei/moraya&type=Date&commit=${{github.sha}})
 
 ---
 
