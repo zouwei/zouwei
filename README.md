@@ -1,50 +1,49 @@
 <div align="center">
   <h1>👋 Hello World</h1>
   <p>
-    <strong>独立开发者</strong> | Moraya Markdown AI Agent 开发者
+    <strong>Indie Developer</strong> | Creator of Moraya Markdown AI Agent
   </p>
   <p>
-    🌐 <a href="https://onela.cn" target="_blank">个人网站</a> • 
-    🎨 <a href="https://moraya.app" target="_blank">Moraya 官网</a> • 
+    🌐 <a href="https://onela.cn" target="_blank">Personal Website</a> • 
+    🎨 <a href="https://moraya.app" target="_blank">Moraya Official Site</a> • 
     ⭐ <a href="https://github.com/zouwei/moraya" target="_blank">GitHub</a>
   </p>
-
 </div>
 
 ---
 
-### 🚀 我的明星项目 —— Moraya
+### 🚀 My Flagship Project — Moraya
 
 **An extremely elegant open-source Markdown AI Agent**  
-极致优雅的开源 Markdown AI Agent（仅 ~10MB，轻量到极致！）
+(Only ~10MB — extremely lightweight!)
 
-基于 **Rust + Tauri v2 + Svelte 5** 打造的本地优先 WYSIWYG 编辑器，专为「写作者 + 本地 AI 用户」设计：
+A locally-first WYSIWYG editor built with **Rust + Tauri v2 + Svelte 5**, designed specifically for **writers + local AI users**:
 
-- 三种编辑模式（可视化 / 源码 / 分屏）+ 完整 GFM + KaTeX + Mermaid（9 种图表）
-- 71+ AI 模板（写作、翻译、学习、游戏、营销……）支持 Claude / OpenAI / Gemini / DeepSeek / Ollama 等
-- 本地 AI 代理 + MCP 生态（Model Context Protocol）可一键安装外部能力
-- 实时语音转写 + 说话人分离 + AI 会议总结
-- AI 图像生成（5 种模式 × 10 种风格）
-- 一键多平台发布（GitHub、自定义 API、RSS）
-- 内置10套现象级插件 + 扩展开放社区插件架构（邀请大家开发Moraya插件）
-- 完全离线可用，密钥存 OS Keychain，隐私安全拉满
+- Three editing modes (Visual / Source / Split-screen) + full GFM + KaTeX + Mermaid (9 chart types)
+- 71+ AI templates (writing, translation, learning, gaming, marketing…) supporting Claude / OpenAI / Gemini / DeepSeek / Ollama etc.
+- Local AI Agent + MCP ecosystem (Model Context Protocol) — one-click install external capabilities
+- Real-time speech transcription + speaker diarization + AI meeting summary
+- AI image generation (5 modes × 10 styles)
+- One-click publishing to multiple platforms (GitHub, custom API, RSS)
+- 10 built-in viral plugins + open community plugin architecture (welcome everyone to build Moraya plugins)
+- Fully offline capable, API keys stored in OS Keychain — maximum privacy & security
 
-**立即体验** → [https://moraya.app](https://moraya.app)  
-**macOS 一键安装**：`brew install --cask moraya`  
-**全平台下载**：[GitHub Releases](https://github.com/zouwei/moraya/releases)
+**Try it now** → [https://moraya.app](https://moraya.app)  
+**macOS one-click install**: `brew install --cask moraya`  
+**Download for all platforms**: [GitHub Releases](https://github.com/zouwei/moraya/releases)
 
-#### ⭐ Star 增长趋势（实时更新）
+#### ⭐ Star Growth Trend (real-time)
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zouwei/moraya&type=Date)
 
 ---
 
-### 📬 联系我
+### 📬 Contact Me
 
-- 个人网站：https://onela.cn
-- Moraya 官网 & Demo：https://moraya.app
-- GitHub：https://github.com/zouwei
-- 欢迎 Star / Issue / PR，一起把 Moraya 做得更优雅 ✨
+- Personal website: https://onela.cn
+- Moraya official site & demo: https://moraya.app
+- GitHub: https://github.com/zouwei
+- Welcome stars / issues / PRs — let’s make Moraya even more elegant together ✨
 
 ---
 
