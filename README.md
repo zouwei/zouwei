@@ -28,7 +28,8 @@ A locally-first WYSIWYG editor built with **Rust + Tauri v2 + Svelte 5**, design
 - 10 built-in viral plugins + open community plugin architecture (welcome everyone to build Moraya plugins)
 - Fully offline capable, API keys stored in OS Keychain — maximum privacy & security
 
-**Try it now** → [https://moraya.app](https://moraya.app)  
+**Try it App** → [https://moraya.app](https://moraya.app)  
+**Try it Web** → [https://web.moraya.app](https://web.moraya.app)  
 **macOS one-click install**: `brew install --cask moraya`  
 **Download for all platforms**: [GitHub Releases](https://github.com/zouwei/moraya/releases)
 
