@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello World</h1>
   <p>
-    <strong>Indie Developer</strong> | Creator of Moraya Markdown AI Agent
+    <strong>Indie Developer</strong> | Creator of Moraya Markdown/Typst AI Agent
   </p>
   <p>
     🌐 <a href="https://onela.cn" target="_blank">Personal Website</a> • 
@@ -14,7 +14,7 @@
 
 ### 🚀 My Flagship Project — Moraya
 
-**An extremely elegant open-source Markdown AI Agent**  
+**An extremely elegant open-source Markdown/Typst AI Agent**  
 (Only ~10MB — extremely lightweight!)
 
 A locally-first WYSIWYG editor built with **Rust + Tauri v2 + Svelte 5**, designed specifically for **writers + local AI users**:
@@ -32,10 +32,6 @@ A locally-first WYSIWYG editor built with **Rust + Tauri v2 + Svelte 5**, design
 **Try it Web** → [https://web.moraya.app](https://web.moraya.app)  
 **macOS one-click install**: `brew install --cask moraya`  
 **Download for all platforms**: [GitHub Releases](https://github.com/zouwei/moraya/releases)
-
-#### ⭐ Star Growth Trend (real-time)
-
-![Star History Chart](https://api.star-history.com/svg?repos=zouwei/moraya&type=Date&commit=${{github.sha}})
 
 ---
 
