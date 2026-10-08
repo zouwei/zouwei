@@ -37,7 +37,6 @@ A locally-first WYSIWYG editor built with **Rust + Tauri v2 + Svelte 5**, design
 
 ### 📬 Contact Me
 
-- Personal website: https://onela.cn
 - Moraya official site & demo: https://moraya.app
 - GitHub: https://github.com/zouwei
 - Welcome stars / issues / PRs — let’s make Moraya even more elegant together ✨
